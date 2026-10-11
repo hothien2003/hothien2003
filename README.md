@@ -12,12 +12,12 @@
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
-- 📫 How to reach me **phamhoangminh2410it@gmail.com**
+- 📫 How to reach me **hothien365@gmail.com**
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
-<a target="_blank" href="mailto:phamhoangminh2410it@gmail.com">
- <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="phamhoangminh2410it's gmail" height="30" width="40"/></a>
+<a target="_blank" href="mailto:hothien365@gmail.com">
+ <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="hothien2003's gmail" height="30" width="40"/></a>
 
 <!-- linkedin -->
 
