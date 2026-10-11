@@ -17,5 +17,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          GH_USERNAME: phamhoangminh2410it
+          GH_USERNAME: hothien2003
           MAX_LINES: 10
