@@ -16,7 +16,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> Connect with me
 <!-- gmail -->
-<a target="_blank" href="mailto:hothien365@gmail.com">
+<a target="_blank" href="hothien365@gmail.com">
  <img align="center" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" alt="hothien2003's gmail" height="30" width="40"/></a>
 
 <!-- linkedin -->
