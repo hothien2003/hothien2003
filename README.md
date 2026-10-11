@@ -8,7 +8,7 @@
 ## 💫 About Me
 <img src="/resource/gif/cat.gif" align="right" height="150px" width="150px"/>
 
-- 😊 I’m a **Backend Developer** 
+- 😊 I’m a **Fullstack Developer** 
 
 - 🌏 I'm living now in **Ho Chi Minh City, Viet Nam**
 
